@@ -12,7 +12,7 @@ namespace ConsoleGitTest
         {
             Console.WriteLine("Second commit");
             Console.ReadLine();
-            Console.WriteLine("Find the differences");
+            Console.WriteLine("Find the differences remote");
         }
     }
 }
