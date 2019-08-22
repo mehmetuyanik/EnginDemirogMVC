@@ -11,6 +11,7 @@ namespace ConsoleGitTest
         static void Main(string[] args)
         {
             Console.WriteLine("Second commit");
+            Console.ReadLine();
         }
     }
 }
